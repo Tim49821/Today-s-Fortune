@@ -1,0 +1,5 @@
+{
+  "name": "오늘의 운세 (Today's Fortune)",
+  "description": "A mystical and elegant daily fortune telling application using Gemini AI.",
+  "requestFramePermissions": []
+}
